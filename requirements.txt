@@ -1,6 +1,5 @@
-python==3.7*
+
 streamlit
 matplotlib
 pandas
 numpy
-google
